@@ -1,0 +1,4 @@
+The file used is a dataset designed randomly, containing two columns "x" and "y," which will be used for the clustering process. The file cluster.py contains all the 
+functions used for the solution development, while the file interface.py contains the graphical interface. First, you need to import the data file, then generate the 
+clusters using the iterative algorithm. Next, select the number of clusters (k) with k-means and generate the clusters using k-means. Finally, visualize the statistics 
+of the results from both algorithms.
